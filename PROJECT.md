@@ -2,4 +2,4 @@
 
 Primeiro arquivo adicionado no projeto.
 
-- Mantido por: <seu nome>
+- Mantido por: Gustavo Soares Lacerda
